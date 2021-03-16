@@ -1,0 +1,2 @@
+/home/bach/Documents/LifeWatch/COXI-Extractor_Releases/Updates_050620/COXI-DB_Taxonomy_Metadata.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
