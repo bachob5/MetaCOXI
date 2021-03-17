@@ -5,7 +5,7 @@ Currently it contains 5,615,985 entries of metazoan COXI sequences and their cor
 Taxonomic path available at the following seven levels with their NCBI-TaxIDs:
 Kingdom, Phylum, Class, Order, Family, Genus, Species.
 
-A sample file of taxonomy and metadata retrieved from ENA and BOLD is available in main/Sample_Metadata.tsv
+A sample file of taxonomy and metadata retrieved from ENA and BOLD is available in Sample_Metadata.tsv
 
 The sequence lengths range is 100-3020 bp with 658 as the most frequent.
 
