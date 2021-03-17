@@ -5,10 +5,10 @@ Currently it contains 5,615,985 entries of metazoan COXI sequences and their cor
 Taxonomic path available at the following seven levels with their NCBI-TaxIDs:
 Kingdom, Phylum, Class, Order, Family, Genus, Species.
 
-A sample file of taxonomy and metadata retrieved from ENA and BOLD is available in ![Alt text](https://github.com/balechbachir/COXI-DB/blob/main/Sample_Metadata.tsv)
+A sample file of taxonomy and metadata retrieved from ENA and BOLD is available in ![this table](https://github.com/balechbachir/COXI-DB/blob/main/Sample_Metadata.tsv)
 
 The sequence lengths range is 100-3020 bp with 658 as the most frequent.
-![Alt text](https://github.com/balechbachir/COXI-DB/blob/main/COXI_DB_SeqLenghthDist.pdf)
+![Image of length dist](https://github.com/balechbachir/COXI-DB/blob/main/COXI_DB_SeqLenghthDist.png)
 
 If you use COXI-DB in your DNA sequence analysis such as DNA barcoding or metabarcoding please cite it as follows:
 ....
