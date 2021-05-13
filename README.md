@@ -15,7 +15,7 @@ A sample file of taxonomy and metadata retrieved from ENA and BOLD is available 
 
 The sequence lengths range is 100-3020 bp with 658 as the most frequent.
 
-![Image of length dist](https://github.com/balechbachir/COXI-DB/blob/main/COXI_DB_SeqLenghthDist.png)
+![Image of length dist](https://github.com/bachob5/MetaCOXI/blob/main/MetaCOXI_SeqLenghthDist.png)
 
 
 If you use COXI-DB in your DNA sequence analysis such as DNA barcoding or metabarcoding please cite it as follows:
