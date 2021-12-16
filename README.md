@@ -1,4 +1,4 @@
-# MetaCOXI: An integrated reference collection of metazoan cytochrome oxidase subunit-I DNA sequences
+# MetaCOXI: An integrated collection of metazoan cytochrome oxidase subunit-I DNA sequences
 
 This collection is based on the integration of the European Nucleotide Archive (ENA, release 142. http://ftp.ebi.ac.uk/pub/databases/ena/sequence/release/) and the Barcode of Life Data Systems (BOLD: http://www.boldsystems.org/) data. 
 
