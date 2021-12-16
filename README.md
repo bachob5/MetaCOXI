@@ -4,7 +4,7 @@ This collection is based on the integration of the European Nucleotide Archive (
 
 CONTENT:
 
-Currently it contains 5,615,985 entries of metazoan COXI sequences and their corresponding taxonomic classification and metadata.
+Currently it contains 5,608,848 entries of metazoan COXI sequences and their corresponding taxonomic classification and metadata.
 MetaCOXI_Seqs.tar.gz contains the full sequence collection in 'fasta' format.
 MetaCOXI_Taxonomy_Metadata.tar.gz contains the entries-associated taxonomy path and additional metadata
 
