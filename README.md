@@ -19,5 +19,5 @@ The sequence lengths range is 100-3020 bp with 658 as the most frequent.
 
 
 If you use MetaCOXI in your DNA sequence analysis such as DNA barcoding or metabarcoding please cite it as follows:
-....
-
+Bachir Balech*, Anna Sandionigi, Marinella Marzano, Graziano Pesole, Monica Santamaria. MetaCOXI: an integrated collection of metazoan mitochondrial cytochrome oxidase subunit-I DNA sequences, Database, Volume 2022, January 2022, baab084.
+https://doi.org/10.1093/database/baab084
