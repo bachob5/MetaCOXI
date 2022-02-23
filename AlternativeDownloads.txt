@@ -1,4 +1,4 @@
 In case of download error of Sequence and Metadata files here we provide alternative download addresses:
 
-- Link to MetaCOXI_Seqs_1.tar.gz: https://1drv.ms/u/s!AvxqUP13dAkql2JD8uoq9vJIi712
-- Link to MetaCOXI_Taxonomy_Metadata.tar.gz: https://1drv.ms/u/s!AvxqUP13dAkql14UF4OnuimcbWUV?e=LAUySr
+- Link to MetaCOXI_Seqs_1.tar.gz: https://1drv.ms/u/s!AvxqUP13dAkql2JHz3nDDLDf0Nwi?e=7rcv3C
+- Link to MetaCOXI_Taxonomy_Metadata.tar.gz: https://1drv.ms/u/s!AvxqUP13dAkql14UF4OnuimcbWUV?e=nX6BJx
